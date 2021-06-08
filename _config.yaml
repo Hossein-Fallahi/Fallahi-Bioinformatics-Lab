@@ -36,6 +36,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+   # markdown files in /_papers
+  - scope:
+      type: "Papers"
+    values:
+      layout: Papers
 
 # collections
 collections:
