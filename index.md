@@ -23,7 +23,7 @@ We will be more than Happy to have a chat with anyone intersted in these fileds.
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  link="none"
   style="button"
 %}
 {:.center}
