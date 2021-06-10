@@ -4,15 +4,18 @@ title: Home
 
 # Making sense of Cancer and stem cell big data
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+My lab uses freely available metadata in the field of cancer and stem cells biology to gain insigth regarding molecular pathways in the cell.
+We have implemented gene expression and protein-protein netwrok analysis in our previous projects. We aim to include data mining techniques in or future work to gain more power in analysing suhc data.
+Our ultimate goal woud be finding new genes, proteins and pathways as target for detection of cancer, drug targets or percision medicine.
+
+We will be more than Happy to have a chat with anyone intersted in these fileds. 
   
 {%
   include link.html
-  type="github"
+  type="Contact us"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="chat with us"
+  link=" email: fallahi.raziuni@gmail.com"
   style="button"
 %}
 {%
