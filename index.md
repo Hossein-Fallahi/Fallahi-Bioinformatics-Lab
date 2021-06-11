@@ -12,7 +12,7 @@ We will be more than Happy to have a chat with anyone intersted in these fileds.
   
 {%
   include link.html
-  type="docs"
+  type="github"
   icon=""
   text="chat with us"
   link=" email: fallahi.raziuni@gmail.com"
