@@ -37,10 +37,9 @@ We will be more than Happy to have a chat with anyone intersted in these fileds.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We have implemented multiple Bioinformatics techniques in cancer and stem cell biology to uncover important pathways and genes that are important in these fileds. 
 
-[See what we've published &nbsp;→](research)
+[See what we've published &nbsp;→](https://scholar.google.com.au/citations?user=Txj1NyEAAAAJ&hl=en)
 {:.center}
 {% endcapture %}
 
@@ -69,9 +68,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+please visit our github page to look at the codes that we are using. We have modified available codes to better integrate them in our analysis piplines.
 
-[Meet our team &nbsp;→](team)
+[Here are the team members &nbsp;→](team)
 {:.center}
 {% endcapture %}
 
