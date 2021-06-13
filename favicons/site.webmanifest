@@ -4,7 +4,7 @@
     "icons": [
         {
             "src": "favicons/android.png",
-            "sizes": "512x512",
+            "sizes": "1000x1000",
             "type": "image/png"
         }
     ],
