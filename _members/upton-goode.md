@@ -1,18 +1,16 @@
 ---
-name: Upton O. Goode
+name: Hossein Fallahi (PhD, MSc, BSc)
 image: images/member.jpg
-description: Bone Investigator
+description: Principle Investigator
 role: pi
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - H. Fallahi
+  - Fallahi H.
+  - H Fallahi
 links:
   orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email: fallahi.raziuni@gmail.com
+  twitter: not set yet
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Hossein is the head of Bioinformatics lab. He is involved in teaching Bioinformatics and Systems Biology courses to the undregraduate and post grad students @ Razi University. 
