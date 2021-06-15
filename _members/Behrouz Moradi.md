@@ -1,6 +1,6 @@
 ---
 name: Behrouz Moradi
-image: images/Behrouz Moradi.jpg
+image: images/member.jpg
 description: Bark Ops Engineer
 role: PhD Student
 aliases:
