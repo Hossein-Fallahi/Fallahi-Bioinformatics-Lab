@@ -7,10 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My team members mostley include graduate students with a background in cell and molecular biology. I am helping them to do their thesis.
+They will be here with their thesis title soon.
+please check it later. 
 
 {% include section.html %}
 
@@ -52,7 +51,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+At the moment we only recive research funding from razi university in the form of subsidary for each Master and PhD students' thesis. 
 {:.center}
 
 {%
