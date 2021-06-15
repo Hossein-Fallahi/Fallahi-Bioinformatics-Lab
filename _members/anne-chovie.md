@@ -1,6 +1,6 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
+name: Behrouz Moradi
+image: images/Behrouz Moradi.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
