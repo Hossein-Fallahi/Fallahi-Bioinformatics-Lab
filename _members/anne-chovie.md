@@ -4,14 +4,12 @@ image: images/Behrouz Moradi.jpg
 description: Bark Ops Engineer
 role: programmer
 aliases:
-  - A. Chovie
-  - A Chovie
+  - B. moradi
+  - Moradi B.
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: 
+  email: 
+  github: 
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Behrouz Moradi is a PhD student at Razi University. He is investigating the link between cisplatin and miRNA epression in Breast Cancer cell lines.
