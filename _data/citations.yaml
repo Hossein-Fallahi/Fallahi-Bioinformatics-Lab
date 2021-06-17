@@ -47,3 +47,21 @@
     link: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcp.28520
   tags:
   - iPSCs, Netwrok analysis, RNA-seq, Direct Conversion
+- id: doi:10.1111/jbg.12379
+  title: Attribute selection and model evaluation for the maternal and paternal imprinted
+    genes in bovine ( <i>Bos Taurus</i> ) using supervised machine learning algorithms
+  authors:
+  - Keyvan Karami
+  - Saeed Zerehdaran
+  - Ali Javadmanesh
+  - Mohammad Mahdi Shariati
+  - Hossien Fallahi
+  publisher: Journal of Animal Breeding and Genetics
+  date: '2019-01-29'
+  link: https://doi.org/ghqg2h
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  extra-links:
+  - type: website
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1111/jbg.12379
+  tags:
+  - Imprinting, Data minin, Machine learning, Random Forest
