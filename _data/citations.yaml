@@ -7,7 +7,7 @@
   - Hossein Fallahi
   - Rasoul Godini
   publisher: Computational Biology and Chemistry
-  date: 2019-1-1
+  date: 1900-1-1
   link: https://doi.org/gkpk62
   image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
   extra-links:
@@ -30,3 +30,20 @@
     link: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcp.27386
   tags:
   - Development, Netwrok analysis, TF Dynamics
+- id: doi:10.1002/jcp.28520
+  title: Regulatory networks upon neurogenesis induction in PC12 cell line by small
+    molecules
+  authors:
+  - Nafiseh Falsafi
+  - Tahereh Soleimani
+  - Hossein Fallahi
+  - Mehri Azadbakht
+  publisher: Journal of Cellular Physiology
+  date: '2019-03-28'
+  link: https://doi.org/gkpnhv
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  extra-links:
+  - type: website
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcp.28520
+  tags:
+  - iPSCs, Netwrok analysis, RNA-seq, Direct Conversion
