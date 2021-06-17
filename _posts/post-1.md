@@ -7,7 +7,7 @@ tags:
   - Cancer biology
   - Setm cells
 author: Hossein Fallahi
-member: hossein-fallahi
+member: Hossein Fallahi
 ---
 
 # new methods
