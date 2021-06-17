@@ -60,5 +60,5 @@ At the moment we only recive research funding from razi university in the form o
   image1="images/razi.jpg"
   link1="https://www.razi.ac.ir/en/"
   tooltip1="Razi University"
-  "
+  
 %}
