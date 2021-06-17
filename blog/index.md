@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-News
+##News
 
 Will be update soon
 
