@@ -7,10 +7,8 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our reserch mostley related to cancer and stem cells. Although, we analyze any types of data including RNAseq and Microarray in microbiology and plant science.
+We are intersted in transcriptome netwrok analysis and gene expression under differnt conditions in various organisms. We have designed several piplines obtaining and analysis of such experimental data as documented in our published work. 
 
 {% include section.html %}
 
