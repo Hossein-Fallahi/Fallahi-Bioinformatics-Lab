@@ -7,7 +7,7 @@
   - Hossein Fallahi
   - Rasoul Godini
   publisher: Computational Biology and Chemistry
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gkpk62
   image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
   extra-links:
@@ -15,3 +15,18 @@
     link: https://www.sciencedirect.com/science/article/abs/pii/S147692711830639X#abs0015
   tags:
   - Breast Cancer, Netwrok analysis, Cisplatin
+- id: doi:10.1002/jcp.27386
+  title: Dynamics changes in the transcription factors during early human embryonic
+    development
+  authors:
+  - Rasoul Godini
+  - Hossein Fallahi
+  publisher: Journal of Cellular Physiology
+  date: '2019-05-01'
+  link: https://doi.org/gkpmrm
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
+  extra-links:
+  - type: website
+    link: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcp.27386
+  tags:
+  - Development, Netwrok analysis, TF Dynamics
