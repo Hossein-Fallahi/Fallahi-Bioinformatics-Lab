@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-{:.center}
-My lab is part of [Department of Biology](https://sci.razi.ac.ir/~h.fallahi), at the school of Sciences, [Razi University](https://old.razi.ac.ir/en/home).
 
+My lab is part of [Department of Biology](https://sci.razi.ac.ir/~h.fallahi), at the school of Sciences, [Razi University](https://old.razi.ac.ir/en/home).
+{:.center}
 
 {%
   include link.html
