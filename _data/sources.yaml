@@ -10,14 +10,14 @@
     - Breast Cancer, Netwrok analysis, Cisplatin
   
  - id: doi:10.1002/jcp.27386
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
+   image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
   #date: 2019-12-01
-  extra-links:
+   extra-links:
     - type: website
       link: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcp.27386
     #- type: source
     # link: https://github.com/greenelab/meta-review
-  tags:
+   tags:
     - development, Netwrok analysis, TF Dynamics
 
 # id: doi:10.1371/journal.pcbi.1007128
