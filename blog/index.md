@@ -2,7 +2,7 @@
 title: Blog
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: News and updates
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
