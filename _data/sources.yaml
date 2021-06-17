@@ -1,14 +1,4 @@
-- id: doi:10.1016/j.compbiolchem.2019.107155
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
-  date: 2019-12-10
-  extra-links:
-    - type: website
-      link: https://www.sciencedirect.com/science/article/abs/pii/S147692711830639X#abs0015
-    #- type: source
-    # link: https://github.com/greenelab/meta-review
-  tags:
-    - Breast Cancer, Netwrok analysis, Cisplatin
-    
+   
 - id: doi:10.1002/jcp.27386
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
   date: 2019-12-1
