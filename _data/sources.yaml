@@ -10,7 +10,7 @@
     - Breast Cancer, Netwrok analysis, Cisplatin
     
 - id: doi:10.1002/jcp.27386
-  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/images/Fig4.jpg
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
   #date: 2019-12-01
   extra-links:
     - type: website
