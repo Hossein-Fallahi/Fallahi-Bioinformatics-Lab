@@ -31,6 +31,18 @@
     # link: https://github.com/greenelab/meta-review
   tags:
     - Imprinting, Data minin, Machine learning, Random Forest
+    
+- id: doi:10.1016/j.compbiolchem.2019.107155
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
+ # date: 
+  extra-links:
+    - type: website
+      link: https://www.sciencedirect.com/science/article/abs/pii/S147692711830639X
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - Development, Netwrok analysis, TF Dynamics    
+    
 # id: doi:10.1371/journal.pcbi.1007128
 # image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
 # repo: greenelab/meta-review
