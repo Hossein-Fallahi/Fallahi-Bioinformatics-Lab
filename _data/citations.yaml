@@ -11,29 +11,7 @@
   link: https://doi.org/gkpk62
   image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
   extra-links:
-  - type: manubot
+  - type: source
     link: https://www.sciencedirect.com/science/article/abs/pii/S147692711830639X#fig0030
   tags:
   - Breast Cancer, Netwrok analysis, Cisplatin
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
