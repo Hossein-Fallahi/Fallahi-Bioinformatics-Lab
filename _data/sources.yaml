@@ -21,7 +21,7 @@
     - Development, Netwrok analysis, TF Dynamics
 
 - id: doi:10.1002/jcp.28520
-  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/falsafi.png
   #date: 2019-12-1
   extra-links:
     - type: website
@@ -32,7 +32,7 @@
     - iPSCs, Netwrok analysis, RNA-seq, Direct Conversion
     
 - id: doi:10.1111/jbg.12379
-  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/karami.png
   #date: 2019-12-1
   extra-links:
     - type: website
