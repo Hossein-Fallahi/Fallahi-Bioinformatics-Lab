@@ -53,14 +53,14 @@ Postal Code: 6714414971
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/razi.jpg"
   caption="Razi University"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/sci.jpg"
   caption="School of Sciences"
 %}
 {% endcapture %}
