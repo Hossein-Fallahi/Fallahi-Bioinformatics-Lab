@@ -50,3 +50,18 @@
     link: https://onlinelibrary.wiley.com/doi/abs/10.1111/jbg.12379
   tags:
   - Imprinting, Data minin, Machine learning, Random Forest
+- id: doi:10.1016/j.compbiolchem.2019.107155
+  title: System-level responses to cisplatin in pro-apoptotic stages of breast cancer
+    MCF-7 cell line
+  authors:
+  - Hossein Fallahi
+  - Rasoul Godini
+  publisher: Computational Biology and Chemistry
+  date: '2019-12-01'
+  link: https://doi.org/gkpk62
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
+  extra-links:
+  - type: website
+    link: https://www.sciencedirect.com/science/article/abs/pii/S147692711830639X
+  tags:
+  - Development, Netwrok analysis, TF Dynamics
