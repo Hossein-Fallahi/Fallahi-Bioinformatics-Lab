@@ -34,7 +34,7 @@
     
 - id: doi:10.1016/j.compbiolchem.2019.107155
   image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
- # date: 
+  date: 2019-10-12
   extra-links:
     - type: website
       link: https://www.sciencedirect.com/science/article/abs/pii/S147692711830639X
