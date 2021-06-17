@@ -20,6 +20,18 @@
   tags:
     - Development, Netwrok analysis, TF Dynamics
 
+- id: doi:10.1002/jcp.28520
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  #date: 2019-12-1
+  extra-links:
+    - type: website
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1002/jcp.28520
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - iPSCs, Netwrok analysis, RNA-seq, Direct Conversion
+
+
 # id: doi:10.1371/journal.pcbi.1007128
 # image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
 # repo: greenelab/meta-review
