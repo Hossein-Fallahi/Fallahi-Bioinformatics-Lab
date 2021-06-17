@@ -56,14 +56,14 @@ Postal Code: 6714414971
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  caption="Razi University"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Department of Metaphor"
+  caption="School of Sciences"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
