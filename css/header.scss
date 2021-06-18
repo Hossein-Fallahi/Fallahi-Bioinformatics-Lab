@@ -36,7 +36,7 @@ header {
 
   .nav_row {
     @include inline-flex-center;
-    font-size: 0.7rem;
+    font-size: 0.75rem;
     font-weight: $regular;
     text-transform: uppercase;
     letter-spacing: 1px;
