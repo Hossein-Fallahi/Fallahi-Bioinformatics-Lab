@@ -41,7 +41,11 @@ defaults:
       type: "Papers"
     values:
       layout: Papers
-     
+    # markdown files in /_projects
+  - scope:
+      type: "Projects"
+    values:
+      layout: Projects  
 
 # collections
 collections:
