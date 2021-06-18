@@ -41,6 +41,11 @@ defaults:
       type: "Papers"
     values:
       layout: Papers
+      
+ - scope:
+      type: "Projects"
+    values:
+      layout: Projects    
 
 # collections
 collections:
