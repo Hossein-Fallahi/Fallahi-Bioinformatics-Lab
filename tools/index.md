@@ -19,6 +19,6 @@ We will put all toos and softwares that we tink is useful for you analysis in he
 
 {% include section.html %}
 
-## ou codes
+## Our codes
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
