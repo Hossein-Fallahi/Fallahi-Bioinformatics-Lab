@@ -1,6 +1,6 @@
 - name: webserver 1
   group: featured
-  image: images/tolls.png
+  image: images/tools.png
   link: https://github.com/
  # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   #repo: greenelab/lab-website-template
