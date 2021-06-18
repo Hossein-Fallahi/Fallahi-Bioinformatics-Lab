@@ -7,21 +7,18 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We will put all toos and softwares that we tink is useful for you analysis in here with proper refrencing. We migth also include our codes for the analysis here.
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Best apps out there
 
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## ou codes
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
