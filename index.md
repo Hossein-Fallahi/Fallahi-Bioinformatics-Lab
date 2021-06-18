@@ -52,10 +52,9 @@ We have implemented multiple Bioinformatics techniques in cancer and stem cell b
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Application and codes that have been used or developed in our group would be a good starting point for many who want to conduct similar analysis. We will deposite them in the resource section and padte it regularly. 
 
-[See our resources &nbsp;→](resources)
+[See our resources &nbsp;→](tools)
 {:.center}
 {% endcapture %}
 
