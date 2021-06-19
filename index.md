@@ -45,7 +45,7 @@ We have implemented multiple Bioinformatics techniques in cancer and stem cell b
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/razi.jpg"
   link="research"
   headline="Our Research"
   text=text
@@ -60,7 +60,7 @@ Application and codes that have been used or developed in our group would be a g
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/razi.jpg"
   link="resources"
   headline="Our Resources"
   text=text
@@ -75,7 +75,7 @@ please visit our github page to look at the codes that we are using. We have mod
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/razi.jpg"
   link="team"
   headline="Our Team"
   text=text
