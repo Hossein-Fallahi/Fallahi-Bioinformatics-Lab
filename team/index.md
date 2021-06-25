@@ -24,12 +24,6 @@ please check it later.
   data="members"
   component="portrait"
   filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
 %}  
 
 {%
@@ -38,12 +32,7 @@ please check it later.
   component="portrait"
   filters="role: undergrad"
 %}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad"
-%}
+
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
