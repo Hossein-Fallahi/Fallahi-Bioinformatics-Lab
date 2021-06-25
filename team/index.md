@@ -25,7 +25,6 @@ please check it later.
   component="portrait"
   filters="role: postdoc"
 %}  
-#{% include section.html %}
 {:.center}
 Students in my group:  
 {:.center}
