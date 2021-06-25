@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: https://doi.org/10.1016/j.ygeno.2020.12.038
+  title: Dissecting the molecular responses of lentil to individual and combined drought and heat stresses by comparative transcriptomic analysis
+  authors:
+  - Seyedeh Zahra Hosseini
+  - Ahmad Ismaili
+  - Farhad Nazarian-Firouzabadi
+  - Hossein Fallahi
+  - Abdolhossein Rezaei Nejad
+  - Seyed Sajad Sohrabi
+  publisher: Genomics
+  date: '2021-01-21'
+  link: https://doi.org/gkpmrm
+  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/images/Genomics-hosseini.jpg?raw=true
+  extra-links:
+  - type: website
+    link: https://www.sciencedirect.com/science/article/abs/pii/S0888754320320851?via%3Dihub
+  tags:
+  - RAN seq, Netwrok analysis, Differntial gene expression
 - id: doi:10.1002/jcp.27386
   title: Dynamics changes in the transcription factors during early human embryonic
     development
