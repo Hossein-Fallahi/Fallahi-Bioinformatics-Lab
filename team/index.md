@@ -30,7 +30,8 @@ please check it later.
   data="members"
   component="portrait"
   filters="role: phd"
-%}
+%}  
+
 {%
   include list.html
   data="members"
