@@ -4,8 +4,8 @@ image: images/HF.png
 description: Principle Investigator
 role: pi
 aliases:
+  - H. Fallahi
   - Hossein Fallahi
-  - Fallahi H.
   - H. Fallahi
 links:
   orcid: 0000-0002-8754-3491
