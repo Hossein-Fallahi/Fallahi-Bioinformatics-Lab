@@ -18,7 +18,8 @@ please check it later.
   data="members"
   component="portrait"
   filters="role: pi"
-%}
+%}  
+
 {%
   include list.html
   data="members"
