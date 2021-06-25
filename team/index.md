@@ -21,7 +21,7 @@ please check it later.
 %}  
 
 {:.center}
-## Current students:  
+## Current researchers and students:  
 {:.center}
 
 {%
