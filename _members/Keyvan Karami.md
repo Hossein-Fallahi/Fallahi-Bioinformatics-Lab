@@ -1,5 +1,5 @@
 ---
-name: Keyvan Karami
+name: Keyvan Karami (PhD)
 image: images/Keyvan.jpg
 description: ML specialist and data analyst
 role: postdoc
