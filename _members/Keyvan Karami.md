@@ -2,7 +2,7 @@
 name: Keyvan Karami
 image: images/member.jpg
 description: ML specialist and data analyst
-role:researcher
+role:phd
 aliases:
   - K. Karami
   - Karami K.
