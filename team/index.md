@@ -31,6 +31,18 @@ please check it later.
   component="portrait"
   filters="role: programmer"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi"
+%}
 {:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
