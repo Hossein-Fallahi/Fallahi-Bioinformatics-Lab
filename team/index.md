@@ -29,19 +29,19 @@ please check it later.
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: phd"
 %}
 {:.center}
 
