@@ -25,6 +25,7 @@ please check it later.
   component="portrait"
   filters="role: postdoc"
 %}  
+Students in my group:  
 
 {%
   include list.html
