@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 5
   tooltip: About our team
 ---
 
@@ -26,7 +26,7 @@ please check it later.
   filters="role: postdoc"
 %}  
 {:.center}
-Students in my group:  
+Current students in my group:  
 {:.center}
 
 {%
@@ -40,6 +40,15 @@ Students in my group:
   data="members"
   component="portrait"
   filters="role: undergrad"
+%}  
+{:.center}
+Previous students in my group:  
+{:.center}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: alumin"
 %}
 
 {:.center}
