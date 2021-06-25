@@ -26,6 +26,7 @@ please check it later.
   filters="role: postdoc"
 %}  
 {% include section.html %}
+{:.center}
 Students in my group:  
 
 {%
