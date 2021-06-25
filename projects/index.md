@@ -8,6 +8,7 @@ nav:
 
 # Here are the list of our current and past projects  
 
+<p align="left">
   
 ## 1- Melanoma ML project - [See this](https://fallahi-bioinformatics-lab.github.io/Melanoma-Cancer-marker-prediction/)  
  
