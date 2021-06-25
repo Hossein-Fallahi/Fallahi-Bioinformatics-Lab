@@ -36,13 +36,13 @@ please check it later.
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: undergrad"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: undergrad"
 %}
 {:.center}
 
