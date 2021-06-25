@@ -42,7 +42,7 @@ please check it later.
   filters="role: undergrad"
 %}  
 {:.center}
-## Previous students who did their bioinformatics analysis in my lab:  
+# Previous students who did their bioinformatics analysis in my lab:  
 {:.center}
 {%
   include list.html
