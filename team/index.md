@@ -20,16 +20,16 @@ please check it later.
   filters="role: pi"
 %}  
 
+{:.center}
+## Current students:  
+{:.center}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc"
 %}  
-{:.center}
-## Current students:  
-{:.center}
-
 {%
   include list.html
   data="members"
