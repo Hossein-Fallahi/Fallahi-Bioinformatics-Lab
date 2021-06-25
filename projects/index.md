@@ -17,6 +17,7 @@ nav:
 ## 3- AML survival analysis  
 {:.left} 
 ## 4- Drug responses and lnRNAs  
+{:.left} 
  
 
 {% include section.html %}
