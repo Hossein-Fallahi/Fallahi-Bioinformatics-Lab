@@ -26,7 +26,7 @@ please check it later.
   filters="role: postdoc"
 %}  
 {:.center}
-Current students in my group:  
+##Current students in my group:  
 {:.center}
 
 {%
@@ -42,7 +42,7 @@ Current students in my group:
   filters="role: undergrad"
 %}  
 {:.center}
-Previous students in my group:  
+##Previous students in my group:  
 {:.center}
 {%
   include list.html
