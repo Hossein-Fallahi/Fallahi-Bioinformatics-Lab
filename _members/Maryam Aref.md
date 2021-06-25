@@ -2,7 +2,7 @@
 name: Maryam Aref
 image: images/member.jpg
 description: Msc Student
-role: student
+role: undergrad
 aliases:
   - Aref M.
   - M. Aref
