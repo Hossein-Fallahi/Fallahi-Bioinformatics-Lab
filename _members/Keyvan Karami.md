@@ -1,6 +1,6 @@
 ---
 name: Keyvan Karami
-image: images/keyvan.jpg
+image: images/Keyvan.jpg
 description: ML specialist and data analyst
 role: postdoc
 aliases:
