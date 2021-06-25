@@ -26,7 +26,7 @@ please check it later.
   filters="role: postdoc"
 %}  
 {:.center}
-## Current students in my group:  
+## Current students:  
 {:.center}
 
 {%
@@ -42,7 +42,7 @@ please check it later.
   filters="role: undergrad"
 %}  
 {:.center}
-## Previous students in my group:  
+## Previous students who did their bioinformatics analysis in my lab:  
 {:.center}
 {%
   include list.html
