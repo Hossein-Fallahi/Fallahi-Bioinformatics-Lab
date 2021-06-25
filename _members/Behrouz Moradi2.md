@@ -1,6 +1,6 @@
 ---
 name: Behrouz Moradi (PhD)
-image: images/moradi2.jpg
+image: images/member.jpg
 description: Molecular Biologist
 role: alumni
 aliases:
