@@ -24,7 +24,8 @@ please check it later.
   data="members"
   component="portrait"
   filters="role: postdoc"
-%}
+%}  
+
 {%
   include list.html
   data="members"
