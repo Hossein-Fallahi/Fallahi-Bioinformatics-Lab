@@ -25,7 +25,6 @@ please check it later.
   component="portrait"
   filters="role: phd"
 %}  
-
 {%
   include list.html
   data="members"
