@@ -5,6 +5,7 @@ description: ML specialist and data analyst
 role: postdoc
 aliases:
   - K. Karami
+  - Keyvan Karami
   - Karami K.
 links:
   home-page: 
