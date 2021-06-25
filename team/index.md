@@ -48,7 +48,7 @@ Previous students in my group:
   include list.html
   data="members"
   component="portrait"
-  filters="role: alumin"
+  filters="role: alumni"
 %}
 
 {:.center}
