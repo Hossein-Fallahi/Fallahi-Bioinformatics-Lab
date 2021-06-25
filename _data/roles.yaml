@@ -21,3 +21,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+alumni:
+  icon: fas fa-award
+  text: Alumni member
