@@ -1,6 +1,6 @@
 ---
 name: Rasoul Godini
-image: images/member.jpg
+image: images/Rasoul-Godini.jpg
 description: Assistant Researcher
 role: alumni
 aliases:
