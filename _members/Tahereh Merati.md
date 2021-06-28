@@ -1,5 +1,5 @@
 ---
-name: Tahereh merati
+name: Tahereh Merati
 image: images/member.jpg
 description: PhD Student & Wet lab scientist
 role: phd
