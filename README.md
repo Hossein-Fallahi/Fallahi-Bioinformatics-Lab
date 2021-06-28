@@ -1,4 +1,4 @@
-# Fallahi-Bioinformatics-Lab
+## Fallahi-Bioinformatics-Lab
 Biomed data analysis
 
 This is my Bioinformatics lab website.
