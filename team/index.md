@@ -56,6 +56,8 @@ please check it later.
 
 {:.center}
 
+{% include section.html %}
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 There is no position available at the moment. Please chek here later.
