@@ -75,7 +75,7 @@ There is no position available at the moment. Please chek here later.
 
 ## Funding
 
-At the moment we only recive research funding from razi university in the form of subsidary for each Master and PhD students' thesis. 
+At the moment, we only recive a limited research funding from Razi University Research Council for each Master and PhD student to counduct their thesis.
 {:.center}
 
 {%
@@ -83,6 +83,8 @@ At the moment we only recive research funding from razi university in the form o
   style="square"
 
   image1="images/razi.jpg"
+  width = 50
+  hight = 50
   link1="https://www.razi.ac.ir/en/"
   tooltip1="Razi University"
   
