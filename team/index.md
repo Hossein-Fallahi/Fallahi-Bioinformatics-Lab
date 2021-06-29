@@ -78,10 +78,10 @@ There is no position available at the moment. Please chek here later.
 At the moment, we only recive a limited research funding from Razi University Research Council for each Master and PhD student to counduct their thesis.
 {:.center}
 
-{% include feature.html %}
 
 {%
   style="square"
+  include link.html
   image1="images/razi.jpg"
   link1="https://www.razi.ac.ir/en/"
   tooltip1="Razi University"
