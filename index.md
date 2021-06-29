@@ -29,7 +29,7 @@ We will be more than Happy to have a chat with anyone intersted in these fileds.
 {:.center}
 
 {% include section.html full=false %}
-# Painted logo from my lab
+Drawing logo of bioinformatics in my lab
 {% include banner.html image="images/BioinfoLab.jpg" %}
 
 {% include section.html %}
