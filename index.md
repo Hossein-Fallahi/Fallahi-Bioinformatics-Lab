@@ -28,7 +28,7 @@ We will be more than Happy to have a chat with anyone intersted in these fileds.
 %}
 {:.center}
 
-{% include section.html full=true %}
+{% include section.html full=false %}
 
 {% include banner.html image="images/BioinfoLab.jpg" %}
 
