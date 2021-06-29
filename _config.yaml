@@ -6,7 +6,7 @@ description: Contains BioMed data analysis related materials
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: https://hossein-fallahi.github.io/Fallahi-Bioinformatics-Lab/
+baseurl: Fallahi-Bioinformatics-Lab/
 
 # site social media and other links
 links:
