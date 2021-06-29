@@ -13,6 +13,8 @@ please check it later.
 
 {% include section.html %}
 
+{% include section.html background="images/BioinfoLab.jpg" dark=true%}
+
 {%
   include list.html
   data="members"
