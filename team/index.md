@@ -83,8 +83,8 @@ At the moment, we only recive a limited research funding from Razi University Re
   style="square"
 
   image1="images/razi.jpg"
-  width = 200px
-  hight = 200px
+  width : 200px
+  hight : 200px
   link1="https://www.razi.ac.ir/en/"
   tooltip1="Razi University"
   
