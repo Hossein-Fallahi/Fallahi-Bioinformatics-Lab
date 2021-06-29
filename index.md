@@ -30,7 +30,7 @@ We will be more than Happy to have a chat with anyone intersted in these fileds.
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/BioinfoLab.jpg" scale-50 %}
+{% include banner.html image="images/BioinfoLab.jpg" %}
 
 {% include section.html %}
 
