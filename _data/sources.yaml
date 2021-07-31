@@ -7,7 +7,7 @@
     #- type: source
     # link: https://github.com/greenelab/meta-review
   tags:
-    - ML, AML, Machine Leraning, survival analysis, cancer
+    - DATA mining, ML, AML, Machine Leraning, survival analysis, cancer
 
 - id: doi:10.1002/jcp.27386
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
@@ -40,7 +40,7 @@
     #- type: source
     # link: https://github.com/greenelab/meta-review
   tags:
-    - Imprinting, Data minin, Machine learning, Random Forest
+    - Imprinting, Data mining, Machine learning, Random Forest, ML
     
 - id: doi:10.1016/j.compbiolchem.2019.107155
   image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
