@@ -1,4 +1,14 @@
-   
+- id: doi:10.1371/journal.pone.0254976
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  date: 2021-07-21
+  extra-links:
+    - type: website
+      link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254976
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - ML, AML, Machine Leraning, survival analysis, cancer
+
 - id: doi:10.1002/jcp.27386
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
   date: 2019-12-1
