@@ -1,6 +1,6 @@
 - id: doi:10.1371/journal.pone.0254976
   image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/images/journal.pone.0254976.g001.PNG
-  date: 2021-07-21
+  #date: 2021-7-21
   extra-links:
     - type: website
       link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254976
@@ -11,7 +11,7 @@
 
 - id: doi:10.1002/jcp.27386
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
-  date: 2019-12-1
+  #date: 2019-12-1
   extra-links:
     - type: website
       link: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcp.27386
@@ -44,7 +44,7 @@
     
 - id: doi:10.1016/j.compbiolchem.2019.107155
   image: https://ars.els-cdn.com/content/image/1-s2.0-S147692711830639X-ga1.jpg
-  date: 2019-10-12
+  #date: 2019-10-12
   extra-links:
     - type: website
       link: https://www.sciencedirect.com/science/article/abs/pii/S147692711830639X
