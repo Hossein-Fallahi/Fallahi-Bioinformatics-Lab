@@ -12,11 +12,11 @@ nav:
 {:.left}  
 ## 1- Melanoma ML project - [See this](https://fallahi-bioinformatics-lab.github.io/Melanoma-Cancer-marker-prediction/)  
 {:.left}
-## 2- Breast cancer and lnCRNA  
+## 2- The role of miRNAs and lncRNA in cancer: Breast cancer, Lung cancer and 
 {:.left} 
 ## 3- AML survival analysis  
 {:.left} 
-## 4- Drug responses and lnRNAs  
+## 4- Intercations between anticancer drugs responses and miRNAs/lncRNAs 
 {:.left} 
  
 
