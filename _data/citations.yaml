@@ -25,7 +25,7 @@
   publisher: Plos ONE
   date: '2019-07-10'
   link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219486
-  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/images/pone.0219486.g007.png
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0219486/1/pone.0219486.g007.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210809%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210809T051707Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=25d3a0a977c0c3913d302a092b0a94388e8f01940f2b24683e5c466132d43be14aae47ca46edfcf2efb1eb77d58df803b128161fbe4e3ac1c0c4302cd314d739b27746403791e7122002b7c9c39a1a9135dccbe5cade775dd954a1c6395b332872220c6159244be02a20571ffd4526a9d605012824f801017967c16283babdf2ebb8cd67ccdbcc1efb2aa63d65a4efabdc1f0aa668d1fcac7f14fe4dd98d33a0813336cf99bb7cb319923e2619e31e60656d4e8796b6cc633c8fb1279f5f6191eba515d190b298471a8be8478c3554bac9fbdaef9724895228f59665f8e98685d34b1101f2eee068ad0eb7ec40ffbcc7bd9f35036b16431de8b111aae535037d
   extra-links:
   - type: website
     link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219486
