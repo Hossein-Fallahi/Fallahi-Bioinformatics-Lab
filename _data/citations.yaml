@@ -15,22 +15,22 @@
   - type: website
     link: https://link.springer.com/article/10.1007/s11033-020-05841-5
   tags:
-  - Development, Netwrok analysis, TF Dynamics
-- id: doi:10.1002/jcp.27386
-  title: Dynamics changes in the transcription factors during early human embryonic
-    development
+  - lnCRNA, Netwrok analysis, Breast Cancer, DSCAM-AS1
+- id: doi:10.1371/journal.pone.0219486
+  title: Caenorhabditis elegans hub genes that respond to amyloid beta are homologs of genes involved in human Alzheimer’s disease
   authors:
   - Rasoul Godini
+  - Roger Pocock
   - Hossein Fallahi
-  publisher: Journal of Cellular Physiology
-  date: '2019-12-01'
-  link: https://doi.org/gkpmrm
-  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  publisher: Plos ONE
+  date: '2019-07-10'
+  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219486
+  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/images/pone.0219486.g007.png
   extra-links:
   - type: website
-    link: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcp.27386
+    link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219486
   tags:
-  - Development, Netwrok analysis, TF Dynamics
+  - Caenorhabditis elegans, Netwrok analysis, TF Dynamics, Alzheimer’s disease, amyloid beta
 - id: doi:10.1371/journal.pone.0254976
   title: Survival prognostic factors in patients with acute myeloid leukemia using
     machine learning techniques
