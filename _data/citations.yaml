@@ -1,5 +1,36 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1007/s11033-020-05841-5
+  title: The clinical significance of circulating DSCAM-AS1 in patients with ER-positive breast cancer and construction of its competitive endogenous RNA network
+    development
+  authors:
+  - Mohammad-Taher Moradi, 
+  - Hossein Fallahi 
+  - Zohreh Rahimi
+  publisher: Molecular Biology Reports
+  date: '2020-10-01'
+  link: https://link.springer.com/article/10.1007/s11033-020-05841-5
+  image: 
+  extra-links:
+  - type: website
+    link: https://link.springer.com/article/10.1007/s11033-020-05841-5
+  tags:
+  - Development, Netwrok analysis, TF Dynamics
+- id: doi:10.1002/jcp.27386
+  title: Dynamics changes in the transcription factors during early human embryonic
+    development
+  authors:
+  - Rasoul Godini
+  - Hossein Fallahi
+  publisher: Journal of Cellular Physiology
+  date: '2019-12-01'
+  link: https://doi.org/gkpmrm
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Fig%204.jpg
+  extra-links:
+  - type: website
+    link: https://onlinelibrary.wiley.com/doi/epdf/10.1002/jcp.27386
+  tags:
+  - Development, Netwrok analysis, TF Dynamics
 - id: doi:10.1371/journal.pone.0254976
   title: Survival prognostic factors in patients with acute myeloid leukemia using
     machine learning techniques
