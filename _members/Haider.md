@@ -1,7 +1,7 @@
 ---
 name: Haider Yabr Lafta
 image: images/haider.jpg
-description: PhD Student-Wet lab scientist
+description: International PhD Student-Wet/dry lab 
 role: phd
 aliases:
   - H.Y Lafta
