@@ -12,4 +12,4 @@ links:
   github: 
 ---
 
-Amir is an international PhD student at Razi University. He is investigating the transcriptome responses to cisplatin Breast Cancer cell lines under hypoxia  
+Amir is an international PhD student at Razi University. He is investigating the transcriptome responses to cisplatin in Breast Cancer cell lines under hypoxia  
