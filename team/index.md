@@ -23,7 +23,7 @@ please check it later.
 %}  
 
 {:.center}
-## Current researchers and students:  
+## Current researchers and PhD students:  
 {:.center}
 
 {%
@@ -37,7 +37,10 @@ please check it later.
   data="members"
   component="portrait"
   filters="role: phd"
-%}  
+%} 
+{:.center}
+## Undergrad students (Master students):  
+{:.center}
 {%
   include list.html
   data="members"
