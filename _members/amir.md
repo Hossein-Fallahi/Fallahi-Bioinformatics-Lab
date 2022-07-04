@@ -1,7 +1,7 @@
 ---
 name: Amir Ghosay
 image: images/member.jpg
-description: International PhD Student-Wet/dry lab scientist
+description: International PhD Student-Wet/dry lab
 role: phd
 aliases:
   - A. Ghosay
