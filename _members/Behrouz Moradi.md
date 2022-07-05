@@ -1,6 +1,6 @@
 ---
 name: Behrouz Moradi
-image: images/member.jpg
+image: images/Bmoradi.jpg
 description: PhD Student-Wet lab scientist
 role: phd
 aliases:
