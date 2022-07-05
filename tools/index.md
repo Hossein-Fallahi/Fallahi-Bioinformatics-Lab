@@ -16,10 +16,10 @@ We will put all toos and softwares that we tink is useful for you analysis in he
 ## Best apps out there
 
 {% include list.html component="card" data="tools" filters="group: featured" %}
-# RNAseq analysis 
-# scRNAseq analysis
-# Chipseq analysis
-# ATACseq analysis
+## RNAseq analysis 
+## scRNAseq analysis
+## Chipseq analysis
+## ATACseq analysis
 
 {% include section.html %}
 
