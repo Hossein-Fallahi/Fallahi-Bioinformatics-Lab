@@ -1,6 +1,6 @@
 ---
 name: Ali Laftah Matlak Alhamidi
-image: images/member.jpg
+image: images/ali-laftah.jpg
 description: International PhD Student-Wet/dry lab
 role: phd
 aliases:
