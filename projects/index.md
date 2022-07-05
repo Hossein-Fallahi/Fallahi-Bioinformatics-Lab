@@ -14,9 +14,9 @@ nav:
 {:.left}
 ## 2- The role of miRNAs and lncRNA in cancer: Breast cancer, Lung cancer and 
 {:.left} 
-## 3- AML survival analysis  
+## 3- AML survival analysis using clinical and gene expression analysis
 {:.left} 
-## 4- Intercations between anticancer drugs responses and miRNAs/lncRNAs 
+## 4- Intercations between anticancer drugs and miRNAs/lncRNAs in breast cancer 
 {:.left} 
  
 
