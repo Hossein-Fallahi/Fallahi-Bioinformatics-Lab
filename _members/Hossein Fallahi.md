@@ -13,4 +13,4 @@ links:
   twitter: not set yet
 ---
 
-Hossein is the head of Bioinformatics lab. He is involved in teaching Bioinformatics and Systems Biology courses to the undregraduate and post grad students @ Razi University. 
+I am the head of Bioinformatics lab. I am an associate professor of Molecular Genetics, but very much intersted in Bioinformatics and biomedical data analysis. I am teaching Bioinformatics and Systems Biology courses to the undregraduate and post grad students @ Razi University since 2009. 
