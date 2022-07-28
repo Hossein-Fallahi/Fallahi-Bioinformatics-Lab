@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Our reserch mostley related to cancer and stem cells. Although, we analyze any types of data including RNAseq and Microarray in microbiology and plant science.
-We are intersted in transcriptome netwrok analysis and gene expression under differnt conditions in various organisms. We have designed several piplines obtaining and analysis of such experimental data as documented in our published work.   
+The research in my group is mostley related to cancer and stem cells. In addition, to help other researchers, we migth get involved in the analysis of other types of data including RNAseq and Microarray in microbiology and plant science.
+We are intersted in transcriptome netwrok analysis and gene expression under differnt conditions in various organisms. As documented in our published works, we have designed and implemented numerous piplines to obtain and analyse availabe high throghput data.   
 Our selected publication list includes:
 
 {% include section.html %}
