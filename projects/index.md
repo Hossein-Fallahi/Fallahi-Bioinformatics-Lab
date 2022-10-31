@@ -10,13 +10,13 @@ nav:
 
 
 {:.left}  
-## 1- Melanoma ML project - [See this](https://fallahi-bioinformatics-lab.github.io/Melanoma-Cancer-marker-prediction/)  
+## 1- MLA project: Looking for the progostic factors in the AML pateints using Machine Learning methods [See this](https://fallahi-bioinformatics-lab.github.io/Melanoma-Cancer-marker-prediction/)  
 {:.left}
-## 2- The role of miRNAs and lncRNA in cancer: Breast cancer, Lung cancer and 
+## 2- LNCRNA Cancer Project: Regulatory networks of lncRNAs in Breast cancer
 {:.left} 
-## 3- AML survival analysis using clinical and gene expression analysis
+## 3- Oncofactors SA: Survival analysis for the oncofactors in TCGA using clinical and gene expression data
 {:.left} 
-## 4- Intercations between anticancer drugs and miRNAs/lncRNAs in breast cancer 
+## 4- miRNA_Drugs Interactome: Intercations between anticancer drugs and miRNAs/lncRNAs in breast cancer 
 {:.left} 
  
 
