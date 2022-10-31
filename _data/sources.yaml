@@ -21,7 +21,7 @@
     - Neurogenesis, Reglatory program, C elegans
     
 - id: doi:10.1371/journal.pone.0254976
-  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/9791e484965f64fb45955a83e2248ee62e22517e/images/Fig1.tif
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Karami_PlosOne_AML_Fig1.jpg
   extra-links:
     - type: website
       link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254976
