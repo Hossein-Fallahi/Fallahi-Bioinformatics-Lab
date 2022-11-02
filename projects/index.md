@@ -20,7 +20,7 @@ nav:
 {:.left} 
 ## 3- Oncofactors SA:
 {:.left} 
-*Survival analysis for the oncofactors in TCGA using clinical and gene expression data
+*Survival analysis for the oncofactors in TCGA using clinical and gene expression data [More information](https://fallahi-bioinformatics-lab.github.io/OncoFactors_Survival_Analysis/)
 {:.left} 
 ## 4- miRNA_Drugs Interactome:
 {:.left}  
