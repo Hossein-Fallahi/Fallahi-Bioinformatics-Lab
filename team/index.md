@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-My team members mostley include graduate students with a background in cell and molecular biology. I am helping them to do their thesis.
-They will be here with their thesis title soon.
-please check it later. 
+My team members are graduate students with a background in cell and molecular biology intersted in analyzing biomed data using computational methods.
+{:.center}
+ 
 
 {% include section.html %}
 
