@@ -48,7 +48,7 @@ nav:
   filters="role: undergrad"
 %}  
 {:.center}
-### Alumni memebers of my lab:  
+### Alumni members of my lab:  
 {:.center}
 {%
   include list.html
