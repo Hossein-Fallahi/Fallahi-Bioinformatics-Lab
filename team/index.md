@@ -63,7 +63,7 @@ please check it later.
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-There is no position available at the moment. Please chek here later.
+We are always looking for highly collaborative and self-motivated students and recent graduates to work on our Bioinformatics and Machine Leraning projects. Please contact us for further information. 
 
 {%
   include link.html
