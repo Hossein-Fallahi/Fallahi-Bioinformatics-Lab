@@ -68,7 +68,8 @@ nav:
 ### We are always looking for highly collaborative and self-motivated students and recent graduates to work on our Bioinformatics and Machine Leraning projects.
 {:.center}
 
-Please contact us for further information. 
+Please contact us for further information.
+
 {:.center}
 
 {%
