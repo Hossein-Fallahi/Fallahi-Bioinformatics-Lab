@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-## My team members are graduate students with a background in cell and molecular biology intersted in analyzing biomed data using computational methods.
+## My team members are graduate students with a background in cell and molecular biology, who are intersted in analyzing BioMed data analysis using computational methods.
 {:.center}
  
 
@@ -48,7 +48,7 @@ nav:
   filters="role: undergrad"
 %}  
 {:.center}
-### Former students who did their bioinformatics analysis in my lab:  
+### Alumni memebers of my lab:  
 {:.center}
 {%
   include list.html
