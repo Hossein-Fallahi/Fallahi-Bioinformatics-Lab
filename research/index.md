@@ -12,7 +12,7 @@ We are intersted in transcriptome netwrok analysis and gene expression under dif
 
 
 {% include section.html %}
-Selected Publications
+# Selected Publications
 {:.center}
 
 {% include search-box.html %}
