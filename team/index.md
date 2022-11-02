@@ -63,15 +63,20 @@ please check it later.
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
+
+
 We are always looking for highly collaborative and self-motivated students and recent graduates to work on our Bioinformatics and Machine Leraning projects. Please contact us for further information. 
+{:.center}
 
 {%
   include link.html
+  type="email"
   icon="fas fa-hands-helping"
   text="Join the Team"
-  link="join"
+  link="h.fallahi@razi.ac.ir"
   style="button"
-%}
+ %}
+ 
 {:.center}
 
 {% include section.html %}
