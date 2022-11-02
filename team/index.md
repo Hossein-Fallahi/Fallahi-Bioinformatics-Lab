@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-## My team members are graduate students with a background in cell and molecular biology intersted in analyzing biomed data using computational methods.
+# My team members are graduate students with a background in cell and molecular biology intersted in analyzing biomed data using computational methods.
 {:.center}
  
 
