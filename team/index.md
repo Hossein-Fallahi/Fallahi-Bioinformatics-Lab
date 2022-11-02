@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-# My team members are graduate students with a background in cell and molecular biology intersted in analyzing biomed data using computational methods.
+## My team members are graduate students with a background in cell and molecular biology intersted in analyzing biomed data using computational methods.
 {:.center}
  
 
@@ -65,7 +65,7 @@ nav:
 
 
 
-# We are always looking for highly collaborative and self-motivated students and recent graduates to work on our Bioinformatics and Machine Leraning projects.
+## We are always looking for highly collaborative and self-motivated students and recent graduates to work on our Bioinformatics and Machine Leraning projects.
 
 {:.center}
 
