@@ -4,9 +4,9 @@ title: Home
 
 # Making sense of Cancer and stem cell big data
 
-My lab uses freely available metadata in the field of cancer and stem cells biology to gain insigth regarding molecular pathways in the cell.
-We have implemented gene expression and protein-protein netwrok analysis in our previous projects. We aim to include data mining techniques in or future work to gain more power in analysing suhc data.
-Our ultimate goal woud be finding new genes, proteins and pathways as target for detection of cancer, drug targets or percision medicine.
+My lab uses freely available metadata in the field of cancer and stem cells biology to address differnt types of questions regarding molecular regulation in the cells.
+We have implemented gene expression anlysis and protein-protein interaction networks in our previous projects. Now, we are trying to include data mining approaches in our  works to gain more power in analysing suhc BioMed data.
+Our ultimate goal is to find new genes, proteins and pathways as targets for cancer diagnosis, finding new drug targets for percision medicine.
 
 We will be more than Happy to have a chat with anyone intersted in these fileds. 
   
