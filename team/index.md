@@ -31,7 +31,13 @@ nav:
   data="members"
   component="portrait"
   filters="role: postdoc"
-%}  
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: assistant"
+%} 
 {%
   include list.html
   data="members"
