@@ -2,7 +2,7 @@
 name: Keyvan Karami (PhD)
 image: images/Keyvan.jpg
 description: ML specialist and data analyst
-role: postdoc
+role: alumni
 aliases:
   - K. Karami
   - Keyvan Karami
@@ -13,4 +13,5 @@ links:
   github: 
 ---
 
-Dr. Keyvan karami is intersted in data mining expert. He is applying machine leraning techniques in various filed of biology and medicine. 
+Dr. Keyvan karami is intersted in data mining expert. He was applying machine leraning techniques in various filed of biology and medicine.
+He is currentley working at INRA, France.
