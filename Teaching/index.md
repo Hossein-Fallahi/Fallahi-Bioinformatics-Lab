@@ -13,7 +13,7 @@ nav:
 
 {:.center}
 
-
+{:.center}
 |Course name|	link to the course sheet|	link to syllabus|
 | :---         |     :---      |          :--- |
 |Bioliterature (plant & animal Sciences)|	BioLiterature sheet|	Bioliterature (plant & animal Sciences)|
@@ -22,7 +22,7 @@ nav:
 |Cell and Molecular Biology Methods|	Cell&Mol. Bio methods sheet|	Cell and Molecular Biology Methods|
 |NanobioInformatics|	NanoBioinformatics sheet|	NanobioInformatics1 & 2|
 |OncoFactors|	OncoFcators|	OncoFactors|
-
+{:.center}
 
 {% include section.html %}
 
