@@ -14,7 +14,7 @@ nav:
 |Course name|	Link to the course materials|	Link to syllabus|
 | :---         |     :---      |          :--- |
 |Bioliterature (plant & animal Sciences)|	[BioLiterature](https://docs.google.com/spreadsheets/d/1m6oTfHREBE9vZGSqRVW8iGFx8UQ7SIkK0szUR0rkFE8/edit?usp=sharing)|	[Bioliterature (plant & animal Sciences)](https://drive.google.com/file/d/1z0EEsi9f10Ip8-NWIi5xUNaG52pEdsz0/view?usp=sharing)|
-|Genetics Engineering|	Genetics Engineering|	[Genetics Engineering](https://drive.google.com/file/d/1y8JSD8hfIQETUKbDeZNMkKWB6m1ws1yA/view?usp=sharing)|
+|Genetics Engineering|	[Genetics Engineering](https://docs.google.com/spreadsheets/d/1fpiKJ-WMVQmoNc4lJlSeQeTlLad1Lzp7k1ZusvsG25I/edit?usp=sharing)|	[Genetics Engineering](https://drive.google.com/file/d/1y8JSD8hfIQETUKbDeZNMkKWB6m1ws1yA/view?usp=sharing)|
 |Adv. Molecular Biology|	Adv. Molbio|	[Adv. Molecular Biology](https://drive.google.com/file/d/1GjHaOP9l3igo8l5X5ZuFOlM68ViQUgiJ/view?usp=sharing)|
 |Cell and Molecular Biology Methods|	Cell&Mol. Bio Methods|	[Cell and Molecular Biology Methods](https://drive.google.com/file/d/1cLRmsMCXwrBVvUPLhGOdAkSWW1LJ8aPr/view?usp=sharing)|
 |NanobioInformatics|	NanoBioinformatics|	[NanobioInformatics](https://drive.google.com/file/d/1MDcZ4xZ8iip4cAV5jI284m-FK4BaE4qM/view?usp=sharing)|
