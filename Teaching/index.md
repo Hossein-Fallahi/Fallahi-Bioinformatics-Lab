@@ -11,7 +11,7 @@ nav:
 
 [List of Classes](https://docs.google.com/spreadsheets/d/1eNlM4RRswGDS-Jt7dFnzbqIT496HDD7DkykGUz9qmxY/edit?usp=sharing)
 
-|Course name|	link to the course materials|	link to syllabus|
+|Course name|	Link to the course materials|	Link to syllabus|
 | :---         |     :---      |          :--- |
 |Bioliterature (plant & animal Sciences)|	BioLiterature|	[Bioliterature (plant & animal Sciences)](https://drive.google.com/file/d/1z0EEsi9f10Ip8-NWIi5xUNaG52pEdsz0/view?usp=sharing)|
 |Genetics Engineering|	Genetics Engineering|	[Genetics Engineering](https://drive.google.com/file/d/1y8JSD8hfIQETUKbDeZNMkKWB6m1ws1yA/view?usp=sharing)|
