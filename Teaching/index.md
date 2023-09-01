@@ -7,6 +7,7 @@ nav:
 
 # <i class="fas fa-chalkboard-teacher"></i>Link to 2023 Course contents 
 
+
 {:.center}
 
 Courses
