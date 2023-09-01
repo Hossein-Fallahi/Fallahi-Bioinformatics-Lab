@@ -9,6 +9,9 @@ nav:
 
 {:.center}
 
+Courses
+
+{:.center}
 
 
 |Course name|	Link to the course materials|	Link to syllabus|
