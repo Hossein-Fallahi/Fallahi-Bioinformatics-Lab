@@ -15,13 +15,10 @@ Courses
 
 |Course name|	Link to the course materials|	Link to syllabus|
 | :---         |     :---      |          :--- |
-|EpiGenetics)|	[Epigenetics](https://docs.google.com/spreadsheets/d/1d0IdDZt5tCLuBp3o8G3yaiy5lqfV_9W5rOaVplBkHlA/edit?usp=sharing)|	[EpiGenetics)](https://drive.google.com/file/d/11GdXaoX5mOR8Sm0afVU5Klzp6awHdy_Z/view?usp=share_link)|
-|Genetics Engineering|	[Genetics Engineering](https://docs.google.com/spreadsheets/d/1fpiKJ-WMVQmoNc4lJlSeQeTlLad1Lzp7k1ZusvsG25I/edit?usp=sharing)|	[Genetics Engineering](https://drive.google.com/file/d/1y8JSD8hfIQETUKbDeZNMkKWB6m1ws1yA/view?usp=sharing)|
-|Adv. Molecular Biology|	[Adv. Molbio](https://docs.google.com/spreadsheets/d/1S4SY0pgTcgFESI8U7vhl-rD-mh76QpHoizZUkhoFSoA/edit?usp=sharing)|	[Adv. Molecular Biology](https://drive.google.com/file/d/1GjHaOP9l3igo8l5X5ZuFOlM68ViQUgiJ/view?usp=sharing)|
-|Cell and Molecular Biology Methods|	[Cell&Mol. Bio Methods](https://docs.google.com/spreadsheets/u/0/d/1JFPB4lk2YJFtb3NQLwNcAaLns-3v9jYhbQAJufPPVTs/edit)|	[Cell and Molecular Biology Methods](https://drive.google.com/file/d/1cLRmsMCXwrBVvUPLhGOdAkSWW1LJ8aPr/view?usp=sharing)|
-|NanobioInformatics|	[NanoBioinformatics](https://docs.google.com/spreadsheets/d/1wgAoKvhoKgXdQLATuaqrHHT8FmuVZukVdo0xFxt6Bfw/edit?usp=sharing)|	[NanobioInformatics](https://drive.google.com/file/d/1MDcZ4xZ8iip4cAV5jI284m-FK4BaE4qM/view?usp=sharing)|
-|OncoFactors|	OncoFcators|	[OncoFactors](https://drive.google.com/file/d/1yrXHKSPOSr7izBp8jnN15sFRjBasvxbM/view?usp=sharing)|
-
+|EpiGenetics)|	[Epigenetics](https://docs.google.com/spreadsheets/d/1d0IdDZt5tCLuBp3o8G3yaiy5lqfV_9W5rOaVplBkHlA/edit?usp=sharing)|	[EpiGenetics](https://drive.google.com/file/d/11GdXaoX5mOR8Sm0afVU5Klzp6awHdy_Z/view?usp=share_link)|
+|Molecular Genetics|	[Molecular Genetics]()|	[Molecular Genetics]()|
+|BioInformatics|	[BioInformatics]()|	[BioInformatics]()|
+|Signal Transduction|	[Signal Transduction]()|	[Signal Transduction]()|
 
 {:.center}
 
