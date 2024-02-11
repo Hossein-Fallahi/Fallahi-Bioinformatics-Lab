@@ -5,7 +5,7 @@ nav:
   tooltip: Course contents
 ---
 
-# <i class="fas fa-chalkboard-teacher"></i>Link to 2023 Course contents 
+# <i class="fas fa-chalkboard-teacher"></i>Link to 2024 Course contents 
 
 
 {:.center}
