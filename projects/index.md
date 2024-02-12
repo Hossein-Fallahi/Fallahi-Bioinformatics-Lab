@@ -12,13 +12,13 @@ nav:
 {:.left}  
 ## 1- MLA project:
 {:.left}  
-*Looking for the progostic factors in the AML pateints using Machine Learning methods [More information](https://fallahi-bioinformatics-lab.github.io/Melanoma-Cancer-marker-prediction/)  
+*Looking for the progostic factors in AML using Machine Learning methods [More information](https://fallahi-bioinformatics-lab.github.io/Melanoma-Cancer-marker-prediction/)  
 {:.left}
-## 2- LNCRNA Cancer Project:
+## 2- LncRNA Cancer Project:
 {:.left}  
 *Regulatory networks of lncRNAs in Breast cancer [More information](https://fallahi-bioinformatics-lab.github.io/LncRNAs_in_Cancer/)
 {:.left} 
-## 3- Oncofactors SA:
+## 3- Oncofactors Survival Analysis:
 {:.left} 
 *Survival analysis for the oncofactors in TCGA using clinical and gene expression data [More information](https://fallahi-bioinformatics-lab.github.io/OncoFactors_SA/)
 {:.left} 
