@@ -15,10 +15,10 @@ Courses
 
 |Course name|	Link to the course materials|	Link to syllabus|
 | :---         |     :---      |          :--- |
-|EpiGenetics)|	[Epigenetics](https://docs.google.com/spreadsheets/d/1d0IdDZt5tCLuBp3o8G3yaiy5lqfV_9W5rOaVplBkHlA/edit?usp=sharing)|	[EpiGenetics](https://drive.google.com/file/d/11GdXaoX5mOR8Sm0afVU5Klzp6awHdy_Z/view?usp=share_link)|
-|Molecular Genetics|	[Molecular Genetics](https://docs.google.com/spreadsheets/d/1uuE9kQu2dO3EAXSYCRPWqGy86dqS5iCnbOITNHp_NUw/edit?usp=drive_link)|	[Molecular Genetics](https://drive.google.com/file/d/1uAN6GM4P9MqPt97l7Dj9QXVc-BnvbMF0/view?usp=drive_link)|
-|BioInformatics|	[BioInformatics](https://docs.google.com/spreadsheets/d/1sl7o6rG-Elo041N170dXAGUlCxBxZtb7tpTuklbiwo4/edit?usp=drive_link)|	[BioInformatics]()|
-|Signal Transduction|	[Signal Transduction](https://docs.google.com/spreadsheets/d/1uvZI5nhO9s0jFphAX6UQGGk1D_htNRTSiUPhw5szoE0/edit?usp=drive_link)|	[Signal Transduction](https://drive.google.com/file/d/1L1VANCHzEXhyXAEE43DNS4_AwzLWnOXN/view?usp=drive_link)|
+|Genetics Engineering)|	[GE](https://docs.google.com/spreadsheets/u/0/d/1fpiKJ-WMVQmoNc4lJlSeQeTlLad1Lzp7k1ZusvsG25I/edit)|	[GE](https://drive.google.com/file/d/1y8JSD8hfIQETUKbDeZNMkKWB6m1ws1yA/view?usp=sharing)|
+|Adv. Mol. Biology|	[Adv. Mol. Bio](https://docs.google.com/spreadsheets/u/0/d/1S4SY0pgTcgFESI8U7vhl-rD-mh76QpHoizZUkhoFSoA/edit)|	[Adv. Mol. Bio](https://drive.google.com/file/d/1GjHaOP9l3igo8l5X5ZuFOlM68ViQUgiJ/view?usp=sharing)|
+|NanoBioInformatics|	[NanoBioInformatics](https://docs.google.com/spreadsheets/d/1sl7o6rG-Elo041N170dXAGUlCxBxZtb7tpTuklbiwo4/edit?usp=drive_link)|	[NanoBioInformatics]()|
+|Cell & Mol. Methods|	[Cell & Mol. Methods](https://docs.google.com/spreadsheets/u/0/d/1JFPB4lk2YJFtb3NQLwNcAaLns-3v9jYhbQAJufPPVTs/edit)|	[Cell & Mol. Methods](https://drive.google.com/file/d/1cLRmsMCXwrBVvUPLhGOdAkSWW1LJ8aPr/view?usp=sharing)|
 
 {:.center}
 
