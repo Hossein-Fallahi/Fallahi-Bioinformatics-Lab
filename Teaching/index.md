@@ -20,6 +20,7 @@ Courses
 |BioInformatics|	[BioInformatics](https://docs.google.com/spreadsheets/d/1sl7o6rG-Elo041N170dXAGUlCxBxZtb7tpTuklbiwo4/edit?usp=sharing)|	[BioInformatics](https://drive.google.com/file/d/1hQCklKxoczIk0GdZLuFg6qVjuD2mT-gR/view?usp=share_link)|
 |Signal Transduction|	[Signal Transduction](https://docs.google.com/spreadsheets/d/1uvZI5nhO9s0jFphAX6UQGGk1D_htNRTSiUPhw5szoE0/edit?usp=sharing)|	[Signal Transduction](https://drive.google.com/file/d/1L1VANCHzEXhyXAEE43DNS4_AwzLWnOXN/view?usp=share_link)|
 |New Topics In Genetics|	[New Topics In Genetics](https://docs.google.com/spreadsheets/u/0/d/1S4SY0pgTcgFESI8U7vhl-rD-mh76QpHoizZUkhoFSoA/edit)|	[New Topics In Genetics]()|
+|Mol. Genetics|	[Mol. Genetics]()|	[Mol. Genetics]()|
 
 {:.center}
 
