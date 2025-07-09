@@ -1,6 +1,6 @@
 ---
 name: Neda Shaghaghi
-image: images/Bmoradi.jpg
+image: images/member.jpg
 description: PhD Student-Bioinformatics lab scientist
 role: phd
 aliases:
