@@ -45,13 +45,13 @@ nav:
   filters="role: phd"
 %} 
 {:.center}
-## Undergrad students (Master students):  
+## Postgraduate  students (Master students):  
 {:.center}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: postgrad"
 %}  
 {:.center}
 ### Alumni members of my lab:  
