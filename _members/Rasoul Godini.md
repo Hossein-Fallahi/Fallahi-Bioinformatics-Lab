@@ -13,4 +13,4 @@ links:
   github: 
 ---
 
-Rasoul Godini was previouse memeber of my team. he is currentley doing his PhD at Monash University, Melbourn, Australia
+Rasoul Godini was a previous member of my team. He has obtained his PhD from Monash University, Melbourne, Australia. Please look at his research [records](https://scholar.google.com.au/citations?hl=en&user=DQZJHbgAAAAJ&view_op=list_works&sortby=pubdate). 
