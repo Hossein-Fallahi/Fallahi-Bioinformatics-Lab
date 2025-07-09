@@ -2,7 +2,7 @@
 name: Kowsar Nazari
 image: images/member.jpg
 description: Msc Student
-role: undergrad
+role: postgrad
 aliases:
   - Nazari K.
   - K. Nazari
