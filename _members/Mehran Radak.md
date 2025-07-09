@@ -2,7 +2,7 @@
 name: Mehran Radak (MSc)
 image: images/mehran.jpg
 description: Research Assistant
-role: assistant
+role: alumni
 aliases:
   - M. Radak
   - Mehran Radak
