@@ -2,7 +2,7 @@
 name: Maryam Ahmadi
 image: images/member.jpg
 description: Msc Student
-role: undergrad
+role: postgrad
 aliases:
   - Ahmadi M.
   - M. Ahmadi
