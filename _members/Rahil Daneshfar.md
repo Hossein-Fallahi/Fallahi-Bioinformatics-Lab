@@ -2,7 +2,7 @@
 name: Rahil Daneshfar
 image: images/member.jpg
 description: Msc Student
-role: undergrad
+role: postgrad
 aliases:
   - Daneshfar R.
   - R. Daneshfar
