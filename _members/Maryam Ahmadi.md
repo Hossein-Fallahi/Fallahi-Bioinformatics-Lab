@@ -2,7 +2,7 @@
 name: Maryam Ahmadi
 image: images/member.jpg
 description: Msc Student
-role: postgrad
+role: postgradalumni
 aliases:
   - Ahmadi M.
   - M. Ahmadi
@@ -12,4 +12,4 @@ links:
   github: 
 ---
 
-Maryam Ahmadi is a new post graduate stdent in my group. Her thesis would be announced shortley.
+Maryam Ahmadi was post graduate stdent in my group.
