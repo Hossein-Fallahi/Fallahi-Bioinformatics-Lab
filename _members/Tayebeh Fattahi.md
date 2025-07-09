@@ -2,7 +2,7 @@
 name: Tayebeh Fattahi
 image: images/member.jpg
 description: Msc Student
-role: undergrad
+role: postgrad
 aliases:
   - Fattahi T.
   - T. Tayebeh Fattahi
