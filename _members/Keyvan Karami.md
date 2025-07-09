@@ -13,5 +13,5 @@ links:
   github: 
 ---
 
-Dr. Keyvan karami is intersted in data mining expert. He was applying machine leraning techniques in various filed of biology and medicine.
-He is currentley working at INRA, France.
+Dr. Keyvan Karami was a member of my team, working as a data mining expert. He was applying machine learning techniques in various fields of biology and medicine.
+He is currently working at the INRA in France. See his [publications](https://scholar.google.com/citations?user=dQzhmY4AAAAJ&hl=en)
