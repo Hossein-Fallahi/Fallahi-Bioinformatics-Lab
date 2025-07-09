@@ -2,7 +2,7 @@
 name: Mastoureh Pour-Nazari
 image: images/member.jpg
 description: Msc Student
-role: undergrad
+role: postgrad
 aliases:
   - Pour-Nazari M.
   - M. Pour-Nazari
