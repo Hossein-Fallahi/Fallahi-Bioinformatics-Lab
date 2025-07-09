@@ -45,7 +45,7 @@ nav:
   filters="role: phd"
 %} 
 {:.center}
-## Postgraduate  students (Master students):  
+## Current Postgraduate  students (Master students):  
 {:.center}
 {%
   include list.html
@@ -62,9 +62,16 @@ nav:
   component="portrait"
   filters="role: alumni"
 %}
-
 {:.center}
-
+### Alumni Students of my lab:  
+{:.center}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postgradalumni"
+%}
+{:.center}
 {% include section.html %}
 
 {% include section.html background="images/banner.jpg" dark=true%}
