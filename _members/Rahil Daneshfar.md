@@ -2,7 +2,7 @@
 name: Rahil Daneshfar
 image: images/member.jpg
 description: Msc Student
-role: postgrad
+role: postgradalumni
 aliases:
   - Daneshfar R.
   - R. Daneshfar
@@ -12,4 +12,4 @@ links:
   github: 
 ---
 
-Rahil Daneshfar is a new post graduate stdent in my group. Her thesis would be announced shortley.
+Rahil Daneshfar was a post graduate stdent in my group. 
