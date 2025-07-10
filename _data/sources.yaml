@@ -1,3 +1,13 @@
+- id: doi:10.1007/s10522-023-10035-0
+  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/images/Radak_biogere_mice.png
+  date: 2023-6-1
+  extra-links:
+    - type: website
+      link: https://link.springer.com/article/10.1007/s10522-023-10035-0
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - GRN, WGCNA, Retina development, Organoid development
 - id: doi:10.1016/j.gene.2021.146131
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Godini_Gene_retina_fig1.jpg
   date: 2022-3-1
