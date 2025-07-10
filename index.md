@@ -4,9 +4,9 @@ title: Home
 
 # Making sense of Bio/Med big data
 
-My lab uses freely available metadata related to the fields of cancer, aging, and stem cell biology to address different questions regarding molecular regulation in the cells.
+My lab utilizes freely available metadata related to the fields of cancer, aging, and stem cell biology to address various questions regarding molecular regulation in cells.
 We have implemented gene expression analysis and gene regulatory protein-protein interaction networks in our previous projects. Now, we are trying to include data mining approaches in our works to gain more power in analyzing such BioMed data.
-Our ultimate goal is to find new genes, proteins, and pathways as targets for cancer diagnosis, and find new drug targets for precision medicine.
+Our ultimate goal is to find new genes, proteins, and pathways as targets for cancer diagnosis and find new drug targets for precision medicine.
 
 We will be more than happy to chat with anyone interested in these fields. 
   
