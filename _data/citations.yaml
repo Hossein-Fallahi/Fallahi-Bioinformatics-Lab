@@ -7,7 +7,7 @@
   - Rasoul Godini
   - Hossein Fallahi
   publisher: Gene
-  date: '2022-03-01'
+  date: '2023-03-01'
   link: https://doi.org/gq5rw4
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Godini_Gene_retina_fig1.jpg
   extra-links:
@@ -29,7 +29,7 @@
   - type: website
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9453034/
   tags:
-  - Neurogenesis, Reglatory program, C elegans
+  - Neurogenesis, Regulatory program, C elegans
 - id: doi:10.1371/journal.pone.0254976
   title: Survival prognostic factors in patients with acute myeloid leukemia using
     machine learning techniques
