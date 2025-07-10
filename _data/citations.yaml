@@ -1,13 +1,14 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.gene.2021.146131
+- &id001
+  id: doi:10.1016/j.gene.2021.146131
   title: Dynamics of transcription regulatory network during mice-derived retina organoid
     development
   authors:
   - Rasoul Godini
   - Hossein Fallahi
   publisher: Gene
-  date: '2022-03-01'
+  date: '2023-03-01'
   link: https://doi.org/gq5rw4
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Godini_Gene_retina_fig1.jpg
   extra-links:
@@ -15,6 +16,7 @@
     link: https://www.sciencedirect.com/science/article/abs/pii/S0378111921007265
   tags:
   - GRN, WGCNA, Retina development, Organoid development
+- *id001
 - id: doi:10.3389/fnmol.2022.974208
   title: The regulatory landscape of neurite development in Caenorhabditis elegans
   authors:
