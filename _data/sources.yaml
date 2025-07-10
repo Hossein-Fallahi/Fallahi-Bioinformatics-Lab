@@ -1,3 +1,14 @@
+- id: doi:10.1007/s00432-023-04956-z
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs00432-023-04956-z/MediaObjects/432_2023_4956_Fig4_HTML.png?
+  date: 2023-06-6
+  extra-links:
+    - type: website
+      link: https://link.springer.com/article/10.1007/s00432-023-04956-z
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - Machine Learning, AI, Breast Cancer, Medical Imaging
+    
 - id: doi:10.1007/s10522-023-10035-0
   image: https://www.researchgate.net/publication/367564127/figure/fig2/AS:11431281115966643@1675169616880/figure-fig2_W640.jpg
   date: 2023-06-1
