@@ -1,5 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1007/s10522-023-10039-w
+  title: 'Zbp1 gene: a modulator of multiple aging hallmarks as potential therapeutic
+    target for age-related diseases'
+  authors:
+  - Mehran Radak
+  - Hossein Fallahi
+  publisher: Biogerontology
+  date: 1900-1-1
+  link: https://doi.org/gs63fk
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs10522-023-10039-w/MediaObjects/10522_2023_10039_Fig1_HTML.png?
+  extra-links:
+  - type: website
+    link: https://link.springer.com/article/10.1007/s10522-023-10039-w
+  tags:
+  - Zbp1 gene, Age-related disease, Aging halmarks
 - id: doi:10.1371/journal.pone.0287761
   title: A comprehensive analysis of transcriptomic data for comparison of plants
     with different photosynthetic pathways in response to drought stress
@@ -11,7 +26,7 @@
   publisher: PLOS ONE
   date: '2023-06-06'
   link: https://doi.org/g9srd2
-  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0287761.g001
+  image: https://journals.plos.org/plosone/article/figure/image?size=inline&id=10.1371/journal.pone.0287761.g008
   extra-links:
   - type: website
     link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287761
