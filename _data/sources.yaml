@@ -1,13 +1,13 @@
-- id: doi:10.1016/j.gene.2021.146131
-  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Godini_Gene_retina_fig1.jpg
-  date: 2022-3-1
+- id: doi:10.1007/s10522-023-10035-0
+  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/images/Radak_biogere_mice.jpg
+  date: 2023-06-1
   extra-links:
     - type: website
-      link: https://www.sciencedirect.com/science/article/abs/pii/S0378111921007265
+      link: https://link.springer.com/article/10.1007/s10522-023-10035-0
     #- type: source
     # link: https://github.com/greenelab/meta-review
   tags:
-    - GRN, WGCNA, Retina development, Organoid development
+    - GRN, DEGs, TFs, Aging cells, Mouse
 
 - id: doi:10.1016/j.gene.2021.146131
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Godini_Gene_retina_fig1.jpg
