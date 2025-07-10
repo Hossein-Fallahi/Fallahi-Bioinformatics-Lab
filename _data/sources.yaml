@@ -7,7 +7,7 @@
     #- type: source
     # link: https://github.com/greenelab/meta-review
   tags:
-    - GRN, WGCNA, Retina development, Organoid development
+    - DEGs, GRN, TFs, Gerontology, Aging
 - id: doi:10.1016/j.gene.2021.146131
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Godini_Gene_retina_fig1.jpg
   date: 2022-3-1
