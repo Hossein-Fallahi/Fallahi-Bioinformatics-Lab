@@ -1,3 +1,14 @@
+- id: doi:10.1371/journal.pone.0287761
+  image: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287761#pone-0287761-g005
+  date: 2023-06-27
+  extra-links:
+    - type: website
+      link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287761
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - Transcriptomic Data Analysis, Photosynthetic pathways, Response, Drought Stress
+    
 - id: doi:10.1007/s00432-023-04956-z
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs00432-023-04956-z/MediaObjects/432_2023_4956_Fig4_HTML.png?
   date: 2023-06-6
