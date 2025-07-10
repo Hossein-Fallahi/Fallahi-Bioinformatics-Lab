@@ -1,7 +1,21 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- &id001
-  id: doi:10.1016/j.gene.2021.146131
+- id: doi:10.1007/s10522-023-10035-0
+  title: Common factors among three types of cells aged in mice
+  authors:
+  - Mehran Radak
+  - Nakisa Ghamari
+  - Hossein Fallahi
+  publisher: Biogerontology
+  date: '2023-06-01'
+  link: https://doi.org/g72mds
+  image: https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/images/Radak_biogere_mice.jpg
+  extra-links:
+  - type: website
+    link: https://link.springer.com/article/10.1007/s10522-023-10035-0
+  tags:
+  - GRN, DEGs, TFs, Aging cells, Mouse
+- id: doi:10.1016/j.gene.2021.146131
   title: Dynamics of transcription regulatory network during mice-derived retina organoid
     development
   authors:
@@ -16,7 +30,6 @@
     link: https://www.sciencedirect.com/science/article/abs/pii/S0378111921007265
   tags:
   - GRN, WGCNA, Retina development, Organoid development
-- *id001
 - id: doi:10.3389/fnmol.2022.974208
   title: The regulatory landscape of neurite development in Caenorhabditis elegans
   authors:
