@@ -1,5 +1,22 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1371/journal.pone.0287761
+  title: A comprehensive analysis of transcriptomic data for comparison of plants
+    with different photosynthetic pathways in response to drought stress
+  authors:
+  - Shima Karami
+  - Behrouz Shiran
+  - Rudabeh Ravash
+  - Hossein Fallahi
+  publisher: PLOS ONE
+  date: 1900-1-1
+  link: https://doi.org/g9srd2
+  image: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287761#pone-0287761-g005
+  extra-links:
+  - type: website
+    link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287761
+  tags:
+  - Transcriptomic Data Analysis, Photosynthetic pathways, Response, Drought Stress
 - id: doi:10.1007/s00432-023-04956-z
   title: 'Machine learning and deep learning techniques for breast cancer diagnosis
     and classification: a comprehensive review of medical imaging studies'
