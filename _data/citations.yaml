@@ -1,5 +1,21 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1007/s00432-023-04956-z
+  title: 'Machine learning and deep learning techniques for breast cancer diagnosis
+    and classification: a comprehensive review of medical imaging studies'
+  authors:
+  - Mehran Radak
+  - Haider Yabr Lafta
+  - Hossein Fallahi
+  publisher: Journal of Cancer Research and Clinical Oncology
+  date: '2023-06-06'
+  link: https://doi.org/g9srdt
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs00432-023-04956-z/MediaObjects/432_2023_4956_Fig4_HTML.png?
+  extra-links:
+  - type: website
+    link: https://link.springer.com/article/10.1007/s00432-023-04956-z
+  tags:
+  - Machine Learning, AI, Breast Cancer, Medical Imaging
 - id: doi:10.1007/s10522-023-10035-0
   title: Common factors among three types of cells aged in mice
   authors:
