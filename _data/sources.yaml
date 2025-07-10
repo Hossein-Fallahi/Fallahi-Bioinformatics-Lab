@@ -1,5 +1,5 @@
 - id: doi:10.1007/s10522-023-10035-0
-  image: 
+  image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Godini_Gene_retina_fig1.jpg
   date: 2023-6-1
   extra-links:
     - type: website
@@ -29,7 +29,7 @@
     #- type: source
     # link: https://github.com/greenelab/meta-review
   tags:
-    - Neurogenesis, Reglatory program, C elegans
+    - Neurogenesis, Regulatory program, C elegans
     
 - id: doi:10.1371/journal.pone.0254976
   image: https://raw.githubusercontent.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/main/images/Karami_PlosOne_AML_Fig1.jpg
