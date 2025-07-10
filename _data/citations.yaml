@@ -1,5 +1,22 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.biosystems.2023.105093
+  title: Identification of common factors among fibrosarcoma, rhabdomyosarcoma, and
+    osteosarcoma by network analysis
+  authors:
+  - Mehran Radak
+  - Nakisa Ghamari
+  - Hossein Fallahi
+  publisher: BioSystems
+  date: '2023-08-02'
+  link: https://doi.org/g9r9rw
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S030326472300268X-gr5.jpg
+  extra-links:
+  - type: website
+    link: https://www.sciencedirect.com/science/article/pii/S030326472300268X
+  tags:
+  - Sarcoma cancers, Fibrosarcoma, Rhabdomyosarcoma, Osteosarcoma, Protein-protein
+    interaction, Transcription factors
 - id: doi:10.1007/s10522-023-10039-w
   title: 'Zbp1 gene: a modulator of multiple aging hallmarks as potential therapeutic
     target for age-related diseases'
