@@ -1,3 +1,14 @@
+- id: doi:10.1111/fcp.12982
+  image: https://www.researchgate.net/profile/Mehran-Radak/publication/377464306/figure/fig1/AS:11431281218312119@1705533775228/Fig1-Direct-and-indirect-communication-Direct-or-indirect-pathways-for-cellular_Q320.jpg
+  date: 2024-06-6
+  extra-links:
+    - type: website
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/fcp.12982
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - Cell–cell communication, Stem cells, Cancer
+    
 - id: doi:10.5217/ir.2023.00162
   image: https://synapse.koreamed.org/upload/SynapseXML/0143ir/thumb/ir-2023-00162f4.gif
   date: 2024-02-6
@@ -7,7 +18,7 @@
     #- type: source
     # link: https://github.com/greenelab/meta-review
   tags:
-    - Sarcoma cancers, Fibrosarcoma, Rhabdomyosarcoma, Osteosarcoma, Protein-protein interaction, Transcription factors
+    -  Colorectal neoplasms, Colorectal polyps, Systems biology, Gene expression, Protein interaction maps
     
 - id: doi:10.1016/j.biosystems.2023.105093
   image: https://ars.els-cdn.com/content/image/1-s2.0-S030326472300268X-gr5.jpg
