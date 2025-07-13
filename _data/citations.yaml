@@ -1,5 +1,22 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1016/j.ecoenv.2024.117389
+  title: Investigating the effect of Quercetin in the presence of CoCl2 as an inducing
+    hypoxia agent on the biological characteristics of human telomerase reverse transcription-immortalized
+    adipose tissue-derived MSCs
+  authors:
+  - Maryam Aref
+  - Sajjad Sisakhtnezhad
+  - Hossein Fallahi
+  publisher: Ecotoxicology and Environmental Safety
+  date: '2024-12-06'
+  link: https://doi.org/g9s3cs
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0147651324014659-gr7.jpg
+  extra-links:
+  - type: website
+    link: https://www.sciencedirect.com/science/article/pii/S0147651324014659
+  tags:
+  - hTERT-MSC, Quercetin,CoCl2, Hypoxia, Cellular behaviors, Gene expression
 - id: doi:10.1111/fcp.12982
   title: "Cell\u2013cell communication in stem cells and cancer: Alone but in touch"
   authors:
