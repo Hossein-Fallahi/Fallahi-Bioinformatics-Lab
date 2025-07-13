@@ -1,3 +1,14 @@
+- id: doi:10.5217/ir.2023.00162
+  image: https://synapse.koreamed.org/upload/SynapseXML/0143ir/thumb/ir-2023-00162f4.gif
+  date: 2024-02-6
+  extra-links:
+    - type: website
+      link: https://synapse.koreamed.org/articles/1516087065
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - Sarcoma cancers, Fibrosarcoma, Rhabdomyosarcoma, Osteosarcoma, Protein-protein interaction, Transcription factors
+    
 - id: doi:10.1016/j.biosystems.2023.105093
   image: https://ars.els-cdn.com/content/image/1-s2.0-S030326472300268X-gr5.jpg
   date: 2024-01-1
