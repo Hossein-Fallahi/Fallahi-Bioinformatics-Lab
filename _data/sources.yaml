@@ -1,3 +1,14 @@
+- id: doi:10.1016/j.ecoenv.2024.117389
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0147651324014659-gr7.jpg
+  date: 2024-12-6
+  extra-links:
+    - type: website
+      link: https://www.sciencedirect.com/science/article/pii/S0147651324014659
+    #- type: source
+    # link: https://github.com/greenelab/meta-review
+  tags:
+    - hTERT-MSC, Quercetin,CoCl2, Hypoxia, Cellular behaviors, Gene expression
+    
 - id: doi:10.1111/fcp.12982
   image: https://www.researchgate.net/profile/Mehran-Radak/publication/377464306/figure/fig1/AS:11431281218312119@1705533775228/Fig1-Direct-and-indirect-communication-Direct-or-indirect-pathways-for-cellular_Q320.jpg
   date: 2024-06-6
