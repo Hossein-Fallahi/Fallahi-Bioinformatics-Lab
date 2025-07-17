@@ -28,7 +28,7 @@ nav:
 {:.left} 
 ## 5- cellular aging and Cellular senescence:
 {:.left}  
-*We are looking at the interaction networks dynamics during cellular aging and senescence [More Information](https://github.com/Fallahi-Bioinformatics-Lab/Cellular-Aging/)
+*We are looking at the interaction networks dynamics during cellular aging and senescence [More Information]([https://fallahi-bioinformatics-lab.github.io/Cellular-Aging/)
 {:.left} 
 
 {% include section.html %}
