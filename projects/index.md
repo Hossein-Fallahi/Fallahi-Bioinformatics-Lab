@@ -2,7 +2,7 @@
 title: projects
 Description: Our Projects
 nav:
-  order: 5
+  order: 4
   tooltip: Projects
 ---
 
