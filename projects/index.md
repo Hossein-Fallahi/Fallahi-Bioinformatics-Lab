@@ -29,6 +29,10 @@ nav:
 ## 5- cellular aging and Cellular senescence:
 {:.left}  
 *We are looking at the interaction networks dynamics during cellular aging and senescence [More Information](https://fallahi-bioinformatics-lab.github.io/Cellular-Aging/)
+{:.left}
+## 6- Lipids and Protein metabolism in diabetes and cancer:
+{:.left}  
+*In these projects, we are looking at the metabolism-related gene regulatory networks in various diseases, including breast cancer, diabetes [More Information]()
 {:.left} 
 
 {% include section.html %}
