@@ -32,7 +32,7 @@ nav:
 {:.left}
 ## 6- Lipids and Protein metabolism in diabetes and cancer:
 {:.left}  
-*In these projects, we are looking at the metabolism-related gene regulatory networks in various diseases, including breast cancer, diabetes [More Information]()
+*In these projects, we are looking at the metabolism-related gene regulatory networks in various diseases, including breast cancer, diabetes [More Information](https://fallahi-bioinformatics-lab.github.io/Lipids-and-Protein-metabolism-in-diabetes-and-cancer/)
 {:.left} 
 
 {% include section.html %}
