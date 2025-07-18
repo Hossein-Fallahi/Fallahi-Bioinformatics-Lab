@@ -7,5 +7,5 @@ nav:
 
 # <i class="fas fa-chalkboard-teacher"></i>Link to Dr Fallahi's CV 
 
-<embed src="https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/My%20CV/MyCV_July2025.pdf" type="application/pdf" />
+<embed src="https://github.com/Hossein-Fallahi/Fallahi-Bioinformatics-Lab/blob/main/My%20CV/MyCV_July2025.pdf" width="600px" height="500px" />
 {:.center}
