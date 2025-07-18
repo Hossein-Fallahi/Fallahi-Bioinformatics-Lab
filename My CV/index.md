@@ -1,7 +1,7 @@
 ---
-title: Resume
+title: Dr Fallahi's Resume
 nav:
-  order: 2
+  order: 8
   tooltip: Dr Fallahi's CV
 ---
 
