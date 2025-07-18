@@ -1,7 +1,7 @@
 ---
 name: Hossein Fallahi (PhD, MSc, BSc)
-image: images/HF.png
-description: Principle Investigator
+image: images/HF2.png
+Description: Principal Investigator
 role: pi
 aliases:
   - H. Fallahi
@@ -13,4 +13,4 @@ links:
   twitter: not set yet
 ---
 
-I am the head of Bioinformatics lab. I am an associate professor of Molecular Genetics, but very much intersted in Bioinformatics and biomedical data analysis. I am teaching Bioinformatics and Systems Biology courses to the undregraduate and post grad students @ Razi University since 2009. 
+I am the head of the Bioinformatics lab. I am an associate professor of Molecular Genetics, but very much interested in Bioinformatics and biomedical data analysis. I am teaching Bioinformatics and Systems Biology courses to the undergraduate and postgraduate students @ Razi University since 2009. 
