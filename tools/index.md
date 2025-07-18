@@ -1,13 +1,13 @@
 ---
 title: Tools
 nav:
-  order: 2
+  order: 5
   tooltip: Software, datasets, and more
 ---
 
 # <i class="fas fa-tools"></i>Tools
 
-We will put all toos and softwares that we tink is useful for you analysis in here with proper refrencing. We migth also include our codes for the analysis here.
+We will put all tools and software that we think are useful for your analysis in here with proper referencing. We might also include our code for the analysis here.
 
 {% include search-info.html %}
 
