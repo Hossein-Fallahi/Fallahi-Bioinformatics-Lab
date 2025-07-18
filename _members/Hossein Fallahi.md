@@ -1,6 +1,6 @@
 ---
 name: Hossein Fallahi (PhD, MSc, BSc)
-image: images/HF2.png
+image: images/HF2.jpg
 Description: Principal Investigator
 role: pi
 aliases:
