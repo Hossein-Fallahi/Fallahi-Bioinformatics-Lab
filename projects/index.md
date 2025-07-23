@@ -35,7 +35,7 @@ nav:
 *In these projects, we are looking at the metabolism-related gene regulatory networks in various diseases, including breast cancer, diabetes [More Information](https://fallahi-bioinformatics-lab.github.io/Lipids-and-Protein-metabolism-in-diabetes-and-cancer/)
 {:.left} 
 
-# Future projects (new direction in my lab):
+# Future projects (lab's new directions):
 {:.left}
 ## 1. Multimodal Omics Integration for Aging Biomarkers
 Expand beyond transcriptomics by incorporating epigenomics, proteomics, and metabolomics data. The aim is to employ deep learning to identify predictive aging signatures across tissues and disease states.
