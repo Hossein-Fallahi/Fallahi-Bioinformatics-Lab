@@ -4,9 +4,10 @@ title: Home
 
 # Making sense of Bio/Med big data
 
-My lab utilizes freely available metadata related to the fields of cancer, aging, and stem cell biology to address various questions regarding molecular regulation in cells.
-We have implemented gene expression analysis and gene regulatory protein-protein interaction networks in our previous projects. Now, we are trying to include data mining approaches in our works to gain more power in analyzing such BioMed data.
-Our ultimate goal is to find new genes, proteins, and pathways as targets for cancer diagnosis and find new drug targets for precision medicine.
+🧬 About my lab
+The Fallahi Bioinformatics Lab at Razi University is a dynamic research hub at the intersection of molecular genetics, systems biology, and artificial intelligence. My team is dedicated to unraveling the molecular mechanisms of aging, cancer, and cellular senescence through integrative omics and machine learning approaches. With a strong foundation in transcriptomic and genomic data analysis, we develop AI-driven models to decode complex biological networks and identify therapeutic targets. Our interdisciplinary collaborations span cancer biology, regenerative medicine, and neurogenetics, with recent work published in Biogerontology, Frontiers in Molecular Neuroscience, and PLOS ONE.
+
+I mentor graduate students in the field of bioinformatics, helping them to start their research journey in precision medicine and computational biology. 
 
 We will be more than happy to chat with anyone interested in these fields. 
   
