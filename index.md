@@ -6,11 +6,9 @@ title: Home
 
 🧬 About my lab
 
-The Fallahi Bioinformatics Lab at Razi University is a dynamic research lab that integrates knowledge from molecular genetics, systems biology, and artificial intelligence. My team is dedicated to unraveling the molecular mechanisms of aging, cancer, and cellular senescence through integrative omics and machine learning approaches. With a strong foundation in transcriptomic and genomic data analysis, the aim is to develop AI-driven models to decode complex biological networks and identify therapeutic targets. Our interdisciplinary collaborations span cancer biology, regenerative medicine, and neurogenetics, with recent work published in Biogerontology, Frontiers in Molecular Neuroscience, and PLOS ONE.
+The Fallahi Bioinformatics Lab at Razi University is a growing research group focused on applying computational biology and machine learning to better understand biological aspects of aging, cancer, and cellular senescence. Led by Dr. Hossein Fallahi, Associate Professor with a background in molecular genetics and bioinformatics, the lab integrates genomic and transcriptomic data to investigate disease mechanisms and potential therapeutic strategies. We combine established bioinformatics tools with emerging AI techniques to analyze large-scale biological datasets, aiming to identify meaningful patterns and generate new hypotheses for experimental validation. Our current work includes exploring gene expression changes in aging tissues, senescence-associated markers in cancer, and multi-omics approaches for precision medicine. Recent publications in journals such as Biogerontology, Frontiers in Molecular Neuroscience, and PLOS ONE reflect our commitment to collaborative, data-driven research. We maintain active partnerships across disciplines, including neuroscience and cancer biology, and are particularly interested in bridging computational models with practical applications in healthcare. I also support graduate training in bioinformatics and computational biology, helping students build the analytical skills required for academic research.
 
-I mentor graduate students in the field of bioinformatics, helping them start their research journey in precision medicine and computational biology. 
-
-We will be more than happy to chat with anyone interested in these fields. 
+If you're working in related areas, looking to collaborate, or just curious about what we do, feel free to get in touch. We'd be happy to connect.
   
 {%
   include link.html
