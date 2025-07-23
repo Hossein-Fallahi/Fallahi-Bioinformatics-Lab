@@ -5,9 +5,10 @@ title: Home
 # Making sense of Bio/Med big data
 
 🧬 About my lab
-The Fallahi Bioinformatics Lab at Razi University is a dynamic research hub at the intersection of molecular genetics, systems biology, and artificial intelligence. My team is dedicated to unraveling the molecular mechanisms of aging, cancer, and cellular senescence through integrative omics and machine learning approaches. With a strong foundation in transcriptomic and genomic data analysis, we develop AI-driven models to decode complex biological networks and identify therapeutic targets. Our interdisciplinary collaborations span cancer biology, regenerative medicine, and neurogenetics, with recent work published in Biogerontology, Frontiers in Molecular Neuroscience, and PLOS ONE.
 
-I mentor graduate students in the field of bioinformatics, helping them to start their research journey in precision medicine and computational biology. 
+The Fallahi Bioinformatics Lab at Razi University is a dynamic research lab that integrates knowledge from molecular genetics, systems biology, and artificial intelligence. My team is dedicated to unraveling the molecular mechanisms of aging, cancer, and cellular senescence through integrative omics and machine learning approaches. With a strong foundation in transcriptomic and genomic data analysis, the aim is to develop AI-driven models to decode complex biological networks and identify therapeutic targets. Our interdisciplinary collaborations span cancer biology, regenerative medicine, and neurogenetics, with recent work published in Biogerontology, Frontiers in Molecular Neuroscience, and PLOS ONE.
+
+I mentor graduate students in the field of bioinformatics, helping them start their research journey in precision medicine and computational biology. 
 
 We will be more than happy to chat with anyone interested in these fields. 
   
