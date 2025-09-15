@@ -37,12 +37,15 @@ nav:
 
 {:.left}
 # Future projects (lab's new directions):
+
 {:.left}
 ## 1. Multimodal Omics Integration for Aging Biomarkers
 Expand beyond transcriptomics by incorporating epigenomics, proteomics, and metabolomics data. The aim is to employ deep learning to identify predictive aging signatures across tissues and disease states.
+
 {:.left}
 ## 2. Single-Cell AI for Senescence Microenvironment Mapping
 Integrate single-cell RNA-seq and spatial transcriptomics to characterize cellular aging. Applying AI-based clustering and trajectory inference to uncover senescence-associated cell states in cancer and neurodegeneration.
+
 {:.left}
 ## 3. AI-integrated into Drug Repurposing approaches for Age-Related Diseases
 Using knowledge generative AI to predict senolytic compounds or rejuvenation therapeutics. To create a pipeline to maximize the advantage of public compound libraries and omics perturbation databases.
