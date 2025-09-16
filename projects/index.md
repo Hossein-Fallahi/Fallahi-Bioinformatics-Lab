@@ -36,7 +36,7 @@ nav:
 
 
 # Future projects (lab's new directions):
-{:.left}
+
 ## 1. Multimodal Omics Integration for Aging Biomarkers
 {:.left}
 Expand beyond transcriptomics by incorporating epigenomics, proteomics, and metabolomics data. The aim is to employ deep learning to identify predictive aging signatures across tissues and disease states.
