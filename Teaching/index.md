@@ -19,7 +19,7 @@ Courses
 |EpiGenetics|	[Epigenetics](To be announced)|	[Epigenetics](To be announced)|
 |BioInformatics|	[BioInformatics](https://docs.google.com/spreadsheets/d/1sl7o6rG-Elo041N170dXAGUlCxBxZtb7tpTuklbiwo4/edit?usp=sharing)|	[BioInformatics](https://drive.google.com/file/d/1hQCklKxoczIk0GdZLuFg6qVjuD2mT-gR/view?usp=share_link)|
 |Molecular Genetics|	[Molecular Genetics](To be announced)|	[Molecular Genetics](To be announced)|
-|Signaling|	[Signaling](To be announced)|	[Signaling](To be announced)|
+|Signaling|	[Signaling](https://docs.google.com/spreadsheets/d/1uvZI5nhO9s0jFphAX6UQGGk1D_htNRTSiUPhw5szoE0/edit?usp=drive_link)|	[Signaling](https://drive.google.com/file/d/1L1VANCHzEXhyXAEE43DNS4_AwzLWnOXN/view?usp=drive_link)|
 
 {:.center}
 
