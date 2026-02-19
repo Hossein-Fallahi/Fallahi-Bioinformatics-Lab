@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Fallahi Bioinformatix Lab<sup>@2021-2025</sup>
-description: Contains BioMed data analysis related materials
+title: Fallahi Bioinformatix Lab<sup>@2021-2026</sup>
+description: Contains BioMed data analysis-related materials
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -11,11 +11,11 @@ baseurl: Fallahi-Bioinformatics-Lab/
 # site social media and other links
 links:
   email: fallahi.raziuni@gmail.com
-  google-scholar: https://scholar.google.com.au/citations?user=Txj1NyEAAAAJ&hl=en
+  Google Scholar: https://scholar.google.com.au/citations?user=Txj1NyEAAAAJ&hl=en
   github: https://github.com/Hossein-Fallahi
   twitter: Not Yet
-  instagram: Not Yet
-  youtube: Not Yet
+  Instagram: Not Yet
+  YouTube: Not Yet
 
 ### advanced settings
 
